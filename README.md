@@ -6,6 +6,7 @@ Desenvolvimento de projeto para apresentar dados usando Apache Superset e efetua
 
 ## Comandos utilizados
 ### Buscando a ultima versao
-> $ export SUPERSET_VERSION=latest
+'$ export SUPERSET_VERSION=latest'
+
 ### Baixando embiente docker do Superset
-> $ docker pull apache/superset:$SUPERSET_VERSION
+'$ docker pull apache/superset:$SUPERSET_VERSION'
